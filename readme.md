@@ -65,3 +65,13 @@ others may freely use and modify the code, but without warranty.
 
 ## 🙌 Acknowledgements
 Developed during my PhD at **Ghent University**, in collaboration with **Johnson & Johnson Innovative Medicine**.
+
+## 📖 Citation
+
+If you use this platform in your work, please cite the following article:
+
+**S. Desimpel, et al.**  
+*Automated flow platform for Bayesian optimization of photochemical reactions.*  
+**Chemical Engineering Journal** (2024), 483, 152064.  
+[https://doi.org/10.1016/j.cej.2024.152064](https://doi.org/10.1016/j.cej.2024.152064)
+
