@@ -71,7 +71,7 @@ Developed during my PhD at **Ghent University**, in collaboration with **Johnson
 If you use this platform in your work, please cite the following article:
 
 **S. Desimpel, et al.**  
-*Automated flow platform for Bayesian optimization of photochemical reactions.*  
-**Chemical Engineering Journal** (2024), 483, 152064.  
-[https://doi.org/10.1016/j.cej.2024.152064](https://doi.org/10.1016/j.cej.2024.152064)
+*Efficient multi-objective Bayesian optimization of gas–liquid photochemical reactions using an automated flow platform*  
+**Chemical Engineering Journal** (2024), 501, 157685.  
+[https://doi.org/10.1016/j.cej.2024.157685]
 
